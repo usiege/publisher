@@ -20,7 +20,7 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
 
 |插件名|说明|
 |:-:|:-:|
-|[Bartender4](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247483891&idx=1&sn=8250d547841e62f035f9e7457fbac0d3&chksm=eaf13f66dd86b670715c6eb5473bcdfacf84e0891fb409432a3b252bd93033fbff68b8bbcd5d&token=917650031&lang=zh_CN#rd)|动作条美化|
+|[Bartender4](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247483718&idx=1&sn=3074d1ed071ba6336995ed859e3a88d8&chksm=eaf13fd3dd86b6c545056587cb645f703c706491fc095633048651cc23e984fcf4c4dce10d2f&token=917650031&lang=zh_CN#rd)|动作条美化|
 |[BlizzMove](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247483908&idx=1&sn=d71b9a4e9bd4d8893ed9270af2e278c4&chksm=eaf13c91dd86b5873b92e366c7c9610db5f947b216d721928672accd4e8da5d4544e174b872c&token=917650031&lang=zh_CN#rd)|框架移动|
 |[Boomtime](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247484696&idx=1&sn=8ff742d2cc26d528a140feb6d06a05f1&chksm=eaf13b8ddd86b29bbe0dc6ccd651664c18355f2f3a63871e5041f57e5f8dac50cf26ae1979e7&token=917650031&lang=zh_CN#rd)|副本重置|
 |[Bug](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247483982&idx=1&sn=e08d692ec06067aea94b60fee7f0cfe5&chksm=eaf13cdbdd86b5cd78cc4a5f1a390c5d666de335844766e2637d605ecfdb91551e69211fb9cf&token=917650031&lang=zh_CN#rd)|错误处理|
