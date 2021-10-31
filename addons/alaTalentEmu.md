@@ -2,4 +2,4 @@
 
 > 敬请期待
 
-![wechat](../wechat.png)
+![wechat](./wechat.png)
