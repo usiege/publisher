@@ -1,4 +1,4 @@
-## alaTalentEmu
+## AtlasLootClassic
 
 > 敬请期待
 

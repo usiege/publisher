@@ -8,13 +8,18 @@ WOW插件详细说明外部链接图文床，直接点击名称可查看详情�
 
 ### A
 
-- [alaTalentEmu]()
-- [AtlasLootClassic]()
+- [alaTalentEmu](./addons/alaTalentEmu.md)
+- [AtlasLootClassic](./addons/AtlasLootClassic.md)
 - [...]()
 
 ### B
 
-- [敬请期待]()
+- [...]()
+
+
+### 持续更新中...
+
+- [敬请期待...](./addons/forward.md)
 
 
 ## 专业技能
