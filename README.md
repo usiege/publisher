@@ -25,3 +25,6 @@ WOW插件详细说明外部链接图文床，直接点击名称可查看详情�
 - [TBC 锻造](./skill/forging.md)
 - [TBC 工程学](./skill/engineering.md)
 - [TBC 珠宝加工](./skill/jewelcrafting.md)
+
+
+![wechat](./wechat.png)
