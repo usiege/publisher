@@ -264,7 +264,9 @@
 
 ![image_1ffkhd64te4pbt7cqk4pk11jmck.png-2307.5kB][21]
 
-以上是本人冲制皮1-375的全过程，有需要的收藏一下。另外如果有插件的问题，可以关注“听风轻咛”找到我。我在听风，也在等你。
+以上是本人冲制皮1-375的全过程，有需要的收藏一下。另外如果有插件的问题，可以关注“听风轻咛”找到我。
+
+我在听风，也在等你。
 
 
   [1]: http://static.zybuluo.com/usiege/zjodvpv41qvccvxi8u2kz3fc/image_1ffjos4s61nmaus11mp61tlr1a8i9.png
