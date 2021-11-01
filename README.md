@@ -10,14 +10,6 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
 
 ### A
 
-<style>
-table th:first-of-type {
-    width: 20%;
-}
-table th:nth-of-type(2) {
-    width: 50%;
-}
-</style>
 
 |插件名|说明|
 |:-:|:-:|
@@ -84,15 +76,16 @@ table th:nth-of-type(2) {
 
 ## 专业技能
 
-<style>
-table th:first-of-type {
-    width: 10%;
-}
-table th:nth-of-type(2) {
-    width: 10%;
-}
-</style>
+
 <table>
+    <style>
+    /* table th:first-of-type {
+        width: 10%;
+    }
+    table th:nth-of-type(2) {
+        width: 10%;
+    } */
+    </style>
     <tbody>
         <tr>
             <th style='text-align:center;' colspan=6>TBC</th>
