@@ -78,14 +78,14 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
 
 
 <table>
-    <style>
-    /* table th:first-of-type {
+    <!-- <style>
+    table th:first-of-type {
         width: 10%;
     }
     table th:nth-of-type(2) {
         width: 10%;
-    } */
-    </style>
+    }
+    </style> -->
     <tbody>
         <tr>
             <th style='text-align:center;' colspan=6>TBC</th>
