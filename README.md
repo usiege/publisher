@@ -10,6 +10,15 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
 
 ### A
 
+<style>
+table th:first-of-type {
+    width: 20%;
+}
+table th:nth-of-type(2) {
+    width: 50%;
+}
+</style>
+
 |插件名|说明|
 |:-:|:-:|
 |[alaTalentEmu](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247483944&idx=1&sn=78dbe6a474db266b639a05463f6546a8&chksm=eaf13cbddd86b5ab54187d3ad23e219b543f303858b033866ecb8cd6eb6cd860376639190107&token=917650031&lang=zh_CN#rd)|天赋模拟|
@@ -75,6 +84,14 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
 
 ## 专业技能
 
+<style>
+table th:first-of-type {
+    width: 10%;
+}
+table th:nth-of-type(2) {
+    width: 10%;
+}
+</style>
 <table>
     <tbody>
         <tr>
