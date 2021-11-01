@@ -67,14 +67,29 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
 - [敬请期待...](./addons/forward.md)
 
 
+## WA字符串
+
+|字符串|功能|
+|:-:|:-:|
+|||
+
 ## 专业技能
 
-- [TBC 制皮](./skill/leather.md)
-- [TBC 炼金](./skill/alchemy.md)
-- [TBC 附魔](./skill/enchantment.md)
-- [TBC 锻造](./skill/forging.md)
-- [TBC 工程学](./skill/engineering.md)
-- [TBC 珠宝加工](./skill/jewelcrafting.md)
+<table>
+    <tbody>
+        <tr>
+            <th style='text-align:center;' colspan=6>TBC</th>
+        </tr>
+        <tr>
+            <th><a href='https://github.com/usiege/publisher/blob/main/skill/leather.md'>制皮</a></th>
+            <th><a href='https://github.com/usiege/publisher/blob/main/skill/alchemy.md'>炼金</a></th>
+            <th><a href='https://github.com/usiege/publisher/blob/main/skill/enchantment.md'>附魔</a></th>
+            <th><a href='https://github.com/usiege/publisher/blob/main/skill/forging.md'>锻造</a></th>
+            <th><a href='https://github.com/usiege/publisher/blob/main/skill/engineering.md'>工程学</a></th>
+            <th><a href='https://github.com/usiege/publisher/blob/main/skill/jewelcrafting.md'>珠宝加工</a></th>
+        </tr>
+    </tbody>
+</table>
 
 
 ![wechat](./wechat.png)
