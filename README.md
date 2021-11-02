@@ -26,9 +26,9 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
 
 
 |插件名|说明|图示|
-|:-:|:-:|-|
-|[alaTalentEmu](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247483944&idx=1&sn=78dbe6a474db266b639a05463f6546a8&chksm=eaf13cbddd86b5ab54187d3ad23e219b543f303858b033866ecb8cd6eb6cd860376639190107&token=917650031&lang=zh_CN#rd)|天赋模拟/emu|![sm.ms](https://i.loli.net/2021/11/02/8inCgKzw3AsmBhp.png){:height="100px" width="400px"}|
-|[AtlasLootClassic](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247483891&idx=1&sn=8250d547841e62f035f9e7457fbac0d3&chksm=eaf13f66dd86b670715c6eb5473bcdfacf84e0891fb409432a3b252bd93033fbff68b8bbcd5d&token=917650031&lang=zh_CN#rd)|装备掉落|![]()|
+|:-:|:-:|:-:|
+|[alaTalentEmu](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247483944&idx=1&sn=78dbe6a474db266b639a05463f6546a8&chksm=eaf13cbddd86b5ab54187d3ad23e219b543f303858b033866ecb8cd6eb6cd860376639190107&token=917650031&lang=zh_CN#rd)|天赋模拟/emu|<img src="https://i.loli.net/2021/11/02/8inCgKzw3AsmBhp.png?400x300" alt="sm.ms" style="zoom:20%;" />|
+|[AtlasLootClassic](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247483891&idx=1&sn=8250d547841e62f035f9e7457fbac0d3&chksm=eaf13f66dd86b670715c6eb5473bcdfacf84e0891fb409432a3b252bd93033fbff68b8bbcd5d&token=917650031&lang=zh_CN#rd)|装备掉落|![sm.ms]()|
 
 
 ### B
