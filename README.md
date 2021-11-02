@@ -50,7 +50,7 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
                 <span>装备掉落 /al</span>
             </td>
             <td style='text-align:center;'>
-                <img src="https://sm.ms/image/8inCgKzw3AsmBhp" alt="sm.ms" width="150" height="200" />
+                <img src="https://sm.ms/image/CVmTOyJrhjlDqE7" alt="sm.ms" width="150" height="200" />
                 <span></span>
             </td>
         </tr>
