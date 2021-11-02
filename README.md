@@ -25,7 +25,7 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
 
 <table>
     <tbody>
-    <tr>
+        <tr>
             <th style='text-align:center;'><span>插件名</span></th>
             <th style='text-align:center;'><span>说明</span></th>
             <th style='text-align:center;'><span>图示</span></th>
@@ -59,6 +59,37 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
 
 
 ### B
+
+<table>
+    <tbody>
+        <tr>
+            <th style='text-align:center;'><span>插件名</span></th>
+            <th style='text-align:center;'><span>说明</span></th>
+            <th style='text-align:center;'><span>图示</span></th>
+        </tr>
+        <tr>
+            <td style='text-align:center;'><a href='https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247483718&amp;idx=1&amp;sn=3074d1ed071ba6336995ed859e3a88d8&amp;chksm=eaf13fd3dd86b6c545056587cb645f703c706491fc095633048651cc23e984fcf4c4dce10d2f&amp;token=917650031&amp;lang=zh_CN#rd'><span>Bartender4</span></a></td>
+            <td style='text-align:center;'><span>动作条美化 /bt</span></td>
+            <td style='text-align:center;'>
+                <img src="https://i.loli.net/2021/11/02/qRnPkfSebaAGg2o.png" alt="sm.ms" width="300" height="160" />
+                <span></span>
+            </td>
+        </tr>
+        <tr>
+            <td style='text-align:center;'><a href='https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247483908&amp;idx=1&amp;sn=d71b9a4e9bd4d8893ed9270af2e278c4&amp;chksm=eaf13c91dd86b5873b92e366c7c9610db5f947b216d721928672accd4e8da5d4544e174b872c&amp;token=917650031&amp;lang=zh_CN#rd'><span>BlizzMove</span></a></td>
+            <td style='text-align:center;'><span>框架移动</span></td>
+        </tr>
+        <tr>
+            <td style='text-align:center;'><a href='https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247484696&amp;idx=1&amp;sn=8ff742d2cc26d528a140feb6d06a05f1&amp;chksm=eaf13b8ddd86b29bbe0dc6ccd651664c18355f2f3a63871e5041f57e5f8dac50cf26ae1979e7&amp;token=917650031&amp;lang=zh_CN#rd'><span>Boomtime</span></a></td>
+            <td style='text-align:center;'><span>副本重置</span></td>
+        </tr>
+        <tr>
+            <td style='text-align:center;'><a href='https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247483982&amp;idx=1&amp;sn=e08d692ec06067aea94b60fee7f0cfe5&amp;chksm=eaf13cdbdd86b5cd78cc4a5f1a390c5d666de335844766e2637d605ecfdb91551e69211fb9cf&amp;token=917650031&amp;lang=zh_CN#rd'><span>Bug</span></a></td>
+            <td style='text-align:center;'><span>错误处理</span></td>
+        </tr>
+    </tbody>
+</table>
+
 
 |插件名|说明|
 |:-:|:-:|
