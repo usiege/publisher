@@ -38,7 +38,7 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
                 <span>天赋模拟 /emu</span>
             </td>
             <td style='text-align:center;'>
-                <img src="https://i.loli.net/2021/11/02/8inCgKzw3AsmBhp.png" alt="sm.ms" width="150" height="200" />
+                <img src="https://i.loli.net/2021/11/02/8inCgKzw3AsmBhp.png" alt="sm.ms" width="200" height="300" />
                 <span></span>
             </td>
         </tr>
@@ -50,7 +50,7 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
                 <span>装备掉落 /al</span>
             </td>
             <td style='text-align:center;'>
-                <img src="https://sm.ms/image/CVmTOyJrhjlDqE7" alt="sm.ms" width="150" height="200" />
+                <img src="https://i.loli.net/2021/11/02/CVmTOyJrhjlDqE7.png" alt="sm.ms" width="200" height="300" />
                 <span></span>
             </td>
         </tr>
