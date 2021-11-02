@@ -31,14 +31,28 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
             <th style='text-align:center;'><span>图示</span></th>
         </tr>
         <tr>
-            <td style='text-align:center;'><a href='https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247483944&amp;idx=1&amp;sn=78dbe6a474db266b639a05463f6546a8&amp;chksm=eaf13cbddd86b5ab54187d3ad23e219b543f303858b033866ecb8cd6eb6cd860376639190107&amp;token=917650031&amp;lang=zh_CN#rd'><span>alaTalentEmu</span></a></td>
-            <td style='text-align:center;'><span>天赋模拟/emu</span></td>
-            <td style='text-align:center;'><img src="https://i.loli.net/2021/11/02/8inCgKzw3AsmBhp.png?400x300" alt="sm.ms" width="400" height="300" /><span></span></td>
+            <td style='text-align:center;'>
+                <a href='https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247483944&amp;idx=1&amp;sn=78dbe6a474db266b639a05463f6546a8&amp;chksm=eaf13cbddd86b5ab54187d3ad23e219b543f303858b033866ecb8cd6eb6cd860376639190107&amp;token=917650031&amp;lang=zh_CN#rd'><span>alaTalentEmu</span></a>
+            </td>
+            <td style='text-align:center;'>
+                <span>天赋模拟 /emu</span>
+            </td>
+            <td style='text-align:center;'>
+                <img src="https://i.loli.net/2021/11/02/8inCgKzw3AsmBhp.png" alt="sm.ms" width="150" height="200" />
+                <span></span>
+            </td>
         </tr>
         <tr>
-            <td style='text-align:center;'><a href='https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247483891&amp;idx=1&amp;sn=8250d547841e62f035f9e7457fbac0d3&amp;chksm=eaf13f66dd86b670715c6eb5473bcdfacf84e0891fb409432a3b252bd93033fbff68b8bbcd5d&amp;token=917650031&amp;lang=zh_CN#rd'><span>AtlasLootClassic</span></a></td>
-            <td style='text-align:center;'><span>装备掉落</span></td>
-            <td style='text-align:center;'><img src="" referrerpolicy="no-referrer" alt="sm.ms"></td>
+            <td style='text-align:center;'>
+                <a href='https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247483891&amp;idx=1&amp;sn=8250d547841e62f035f9e7457fbac0d3&amp;chksm=eaf13f66dd86b670715c6eb5473bcdfacf84e0891fb409432a3b252bd93033fbff68b8bbcd5d&amp;token=917650031&amp;lang=zh_CN#rd'><span>AtlasLootClassic</span></a>
+            </td>
+            <td style='text-align:center;'>
+                <span>装备掉落 /al</span>
+            </td>
+            <td style='text-align:center;'>
+                <img src="https://sm.ms/image/8inCgKzw3AsmBhp" alt="sm.ms" width="150" height="200" />
+                <span></span>
+            </td>
         </tr>
     </tbody>
 </table>
