@@ -73,6 +73,7 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
 
 |字符串|功能|
 |:-:|:-:|
+|[Character Stats](https://mp.weixin.qq.com/s?__biz=MzIyMDQ4NDIzNw==&mid=2247484283&idx=2&sn=e293744f5f17d7f8f6ffce1b17358c4a&chksm=97ca0499a0bd8d8f6d7e1d21f9276e75f1ee145deca9e8959a3682664869f5085750ed3eddca&token=449085957&lang=zh_CN#rd)|TBC角色属性统计显示|
 |[ExpHelper](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247484696&idx=2&sn=d5d29a99587645aacef9e1ed9f18d3b9&chksm=eaf13b8ddd86b29b2d70c7f84ec149e17d909a1775f1f62b69826a4a1350f6d16cc4e0a50a05&token=371227762&lang=zh_CN#rd)|TBC副本统计信息监控|
 |[风暴要塞](https://mp.weixin.qq.com/s?__biz=MzIyMDQ4NDIzNw==&mid=2247484249&idx=3&sn=876e8701c65fec934094e1cf8211b3df&chksm=97ca04bba0bd8dad030728ce7f5394de58f83577f4b6c5eaa8f7416933738b512fd1569a22b3&token=1580285847&lang=zh_CN#rd)|TBC P2阶段人手一份的风暴要塞提醒|
 |[毒蛇神殿](https://mp.weixin.qq.com/s?__biz=MzIyMDQ4NDIzNw==&mid=2247484249&idx=2&sn=55b329809176fc82222635b53390af5f&chksm=97ca04bba0bd8dadc14ddcb8f32a0e6f94213b3eeaf06f84ff0f7d497e3e99f206261906de2d&token=1580285847&lang=zh_CN#rd)|TBC P2阶段人手一份的毒蛇神殿提醒|
