@@ -156,8 +156,8 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
             <th style='text-align:center;'><span>图示</span></th>
         </tr>
         <tr>
-            <td style='text-align:center;'><a href='https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247484066&amp;idx=1&amp;sn=261700b5e667f95725de779618f302cb&amp;chksm=eaf13c37dd86b521f2363c41b77ffd5eb803f7ee810c30a241780d5dcbd6ff929df15d605262&amp;token=917650031&amp;lang=zh_CN#rd'><span>NeatPlates /np</span></a></td>
-            <td style='text-align:center;'><span>目标血条</span></td>
+            <td style='text-align:center;'><a href='https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247484066&amp;idx=1&amp;sn=261700b5e667f95725de779618f302cb&amp;chksm=eaf13c37dd86b521f2363c41b77ffd5eb803f7ee810c30a241780d5dcbd6ff929df15d605262&amp;token=917650031&amp;lang=zh_CN#rd'><span>NeatPlates</span></a></td>
+            <td style='text-align:center;'><span>目标血条 /np</span></td>
             <td style='text-align:center;'>
             <img src="https://i.loli.net/2021/11/02/782ZMmhKuHkvlQW.png" alt="sm.ms" width="300" height="160" />
             <span></span>
@@ -176,8 +176,8 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
             <th style='text-align:center;'><span>图示</span></th>
         </tr>
         <tr>
-            <td style='text-align:center;'><a href='https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247483965&amp;idx=1&amp;sn=5adc5e2e2623c85e596575f6c8a66cdf&amp;chksm=eaf13ca8dd86b5bebe762f9d5b8ea7e5b0604f0e7e1cc4012d0bcd46e5666f5f6d55472b2304&amp;token=917650031&amp;lang=zh_CN#rd'><span>Recount /recount</span></a></td>
-            <td style='text-align:center;'><span>伤害统计</span></td>
+            <td style='text-align:center;'><a href='https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247483965&amp;idx=1&amp;sn=5adc5e2e2623c85e596575f6c8a66cdf&amp;chksm=eaf13ca8dd86b5bebe762f9d5b8ea7e5b0604f0e7e1cc4012d0bcd46e5666f5f6d55472b2304&amp;token=917650031&amp;lang=zh_CN#rd'><span>Recount</span></a></td>
+            <td style='text-align:center;'><span>伤害统计 /recount</span></td>
             <td style='text-align:center;'>
             <img src="https://i.loli.net/2021/11/02/YQjwX7VFLmNp5I2.png" alt="sm.ms" width="300" height="160" />
             <span></span>
@@ -197,8 +197,8 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
             <th style='text-align:center;'><span>图示</span></th>
         </tr>
         <tr>
-            <td style='text-align:center;'><a href='https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247483872&amp;idx=1&amp;sn=34556b9ad0920698eb80e37a6e8e9b4a&amp;chksm=eaf13f75dd86b663aac238e6aac5c4933908e32a46eda97b62aef940d31aaf8a0338a743f101&amp;token=917650031&amp;lang=zh_CN#rd'><span>ShadowedUnitFrames /suf</span></a></td>
-            <td style='text-align:center;'><span>界面美化</span></td>
+            <td style='text-align:center;'><a href='https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247483872&amp;idx=1&amp;sn=34556b9ad0920698eb80e37a6e8e9b4a&amp;chksm=eaf13f75dd86b663aac238e6aac5c4933908e32a46eda97b62aef940d31aaf8a0338a743f101&amp;token=917650031&amp;lang=zh_CN#rd'><span>ShadowedUnitFrames</span></a></td>
+            <td style='text-align:center;'><span>界面美化 /suf</span></td>
             <td style='text-align:center;'>
             <img src="https://i.loli.net/2021/11/02/lBsNFuRn5U3wqKc.png" alt="sm.ms" width="300" height="160" />
             <span></span>
@@ -218,8 +218,8 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
             <th style='text-align:center;'><span>图示</span></th>
         </tr>
         <tr>
-            <td style='text-align:center;'><a href='https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247484593&amp;idx=1&amp;sn=55e8191672a9deb673e9e58b911efec6&amp;chksm=eaf13a24dd86b33238e126a52a0b8c06646f2131b51d081f08bbaa692a0cc708ebbb6b7f4802&amp;token=917650031&amp;lang=zh_CN#rd'><span>WeakAuras /wa</span></a></td>
-            <td style='text-align:center;'><span>WA</span></td>
+            <td style='text-align:center;'><a href='https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247484593&amp;idx=1&amp;sn=55e8191672a9deb673e9e58b911efec6&amp;chksm=eaf13a24dd86b33238e126a52a0b8c06646f2131b51d081f08bbaa692a0cc708ebbb6b7f4802&amp;token=917650031&amp;lang=zh_CN#rd'><span>WeakAuras</span></a></td>
+            <td style='text-align:center;'><span>WA /wa</span></td>
             <td style='text-align:center;'>
             <img src="https://i.loli.net/2021/11/02/rzOVJqIeWf2Km3Z.png" alt="sm.ms" width="300" height="160" />
             <span></span>
