@@ -102,12 +102,46 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
 
 ### D
 
-|插件名|说明|
-|:-:|:-:|
-|[DBM](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247484671&idx=1&sn=457f6b5fa215a22de79bb67039926f9a&chksm=eaf13a6add86b37c891080c1ac4ff9206c5b76047d8689aa10264191d3bd2679b38befab135a&token=917650031&lang=zh_CN#rd)|副本警报|
-|[DBM语音](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247484556&idx=1&sn=1aa51d880a0b4989b81dbb6807b2412f&chksm=eaf13a19dd86b30fdbaf35a615910136f15afcac8ef14c2fd0141e5e51b5734a9577c4235410&token=917650031&lang=zh_CN#rd)|DBM语音包|
-|[Detials](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247484553&idx=1&sn=02dedf77d8c7a9642730f9b3197dfae3&chksm=eaf13a1cdd86b30a27770aa2d481deace45dfcb812c3e62d0286ec963b2e224eb22864d007e2&token=917650031&lang=zh_CN#rd)|伤害统计|
-|[Dominos](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247484643&idx=1&sn=8ab294cc8e74e5e6ce0dd0cc6012c016&chksm=eaf13a76dd86b3608ab926a7965c7c0c60271d47b2a5f2ee20c5f76b85ee0d3b1d55e628b761&token=917650031&lang=zh_CN#rd)|多米诺动作条|
+<table>
+    <tbody>
+        <tr>
+            <th style='text-align:center;'><span>插件名</span></th>
+            <th style='text-align:center;'><span>说明</span></th>
+            <th style='text-align:center;'><span>图示</span></th>
+        </tr>
+        <tr>
+            <td style='text-align:center;'><a href='https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247484671&amp;idx=1&amp;sn=457f6b5fa215a22de79bb67039926f9a&amp;chksm=eaf13a6add86b37c891080c1ac4ff9206c5b76047d8689aa10264191d3bd2679b38befab135a&amp;token=917650031&amp;lang=zh_CN#rd'><span>DBM</span></a></td>
+            <td style='text-align:center;'><span>副本警报 /dbm</span></td>
+            <td style='text-align:center;'>
+                <img src="https://i.loli.net/2021/11/02/KkD5L8PcvXpIATS.png" alt="sm.ms" width="300" height="160" />
+                <span></span>
+            </td>
+        </tr>
+        <tr>
+            <td style='text-align:center;'><a href='https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247484556&amp;idx=1&amp;sn=1aa51d880a0b4989b81dbb6807b2412f&amp;chksm=eaf13a19dd86b30fdbaf35a615910136f15afcac8ef14c2fd0141e5e51b5734a9577c4235410&amp;token=917650031&amp;lang=zh_CN#rd'><span>DBM语音</span></a></td>
+            <td style='text-align:center;'><span>DBM语音包</span></td>
+            <td style='text-align:center;'>
+                <span>-</span>
+            </td>
+        </tr>
+        <tr>
+            <td style='text-align:center;'><a href='https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247484553&amp;idx=1&amp;sn=02dedf77d8c7a9642730f9b3197dfae3&amp;chksm=eaf13a1cdd86b30a27770aa2d481deace45dfcb812c3e62d0286ec963b2e224eb22864d007e2&amp;token=917650031&amp;lang=zh_CN#rd'><span>Detials</span></a></td>
+            <td style='text-align:center;'><span>伤害统计</span></td>
+            <td style='text-align:center;'>
+                <img src="https://i.loli.net/2021/11/02/9sqUpw5dc4hDmNt.png" alt="sm.ms" width="300" height="160" />
+                <span></span>
+            </td>
+        </tr>
+        <tr>
+            <td style='text-align:center;'><a href='https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247484643&amp;idx=1&amp;sn=8ab294cc8e74e5e6ce0dd0cc6012c016&amp;chksm=eaf13a76dd86b3608ab926a7965c7c0c60271d47b2a5f2ee20c5f76b85ee0d3b1d55e628b761&amp;token=917650031&amp;lang=zh_CN#rd'><span>Dominos</span></a></td>
+            <td style='text-align:center;'><span>多米诺动作条</span></td>
+            <td style='text-align:center;'>
+                <img src="https://i.loli.net/2021/11/02/jD4N2xvQ96MdRBr.png" alt="sm.ms" width="300" height="160" />
+                <span></span>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ### N
 
