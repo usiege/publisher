@@ -310,4 +310,4 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
 
 |QQ资料群|VX公众号|
 |-|-|
-|![qq](./qqgroup.png)|![wechat](./wechat.png)|
+|![qq](./qqg.png)|![wechat](./wechat.png)|
