@@ -261,6 +261,14 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
             </td>
         </tr>
         <tr>
+            <td style='text-align:center;'><a href='https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247484593&amp;idx=1&amp;sn=55e8191672a9deb673e9e58b911efec6&amp;chksm=eaf13a24dd86b33238e126a52a0b8c06646f2131b51d081f08bbaa692a0cc708ebbb6b7f4802&amp;token=986903697&amp;lang=zh_CN#rd'><span>Character Stats</span></a></td>
+            <td style='text-align:center;'><span>TBC角色自动跟随</span></td>
+            <td style='text-align:center;'>
+            <img src="https://i.loli.net/2021/11/06/pZNFeTi2AYx948b.png" alt="sm.ms" width="300" height="160" />
+            <span></span>
+            </td>
+        </tr>
+        <tr>
             <td style='text-align:center;'><a href='https://mp.weixin.qq.com/s?__biz=MzIyMDQ4NDIzNw==&amp;mid=2247484283&amp;idx=2&amp;sn=e293744f5f17d7f8f6ffce1b17358c4a&amp;chksm=97ca0499a0bd8d8f6d7e1d21f9276e75f1ee145deca9e8959a3682664869f5085750ed3eddca&amp;token=449085957&amp;lang=zh_CN#rd'><span>Character Stats</span></a></td>
             <td style='text-align:center;'><span>TBC角色属性统计显示</span></td>
             <td style='text-align:center;'>
