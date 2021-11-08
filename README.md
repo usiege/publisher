@@ -303,6 +303,7 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
             <th><a href='https://github.com/usiege/publisher/blob/main/skill/forging.md'>锻造</a></th>
             <th><a href='https://github.com/usiege/publisher/blob/main/skill/engineering.md'>工程学</a></th>
             <th><a href='https://github.com/usiege/publisher/blob/main/skill/jewelcrafting.md'>珠宝加工</a></th>
+            <th><a href='https://github.com/usiege/publisher/blob/main/skill/tailor.md'>裁缝</a></th>
         </tr>
     </tbody>
 </table>
