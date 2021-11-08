@@ -302,7 +302,7 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
     </style> -->
     <tbody>
         <tr>
-            <th style='text-align:center;' colspan=6>TBC</th>
+            <th style='text-align:center;' colspan=7>TBC</th>
         </tr>
         <tr>
             <th><a href='https://github.com/usiege/publisher/blob/main/skill/leather.md'>制皮</a></th>
