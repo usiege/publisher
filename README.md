@@ -12,6 +12,8 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
 |说明|链接|
 |:-:|:-:|
 |功能拆解|[[大脚]WOW BigFoot整合插件拆解-先导篇](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247484715&idx=1&sn=aa1771def021b59fb3fe0726ec6e18a4&chksm=eaf13bbedd86b2a82e424b454d72b23e83001f1d325b03b8d15bbd421ebfefe3403c66b822e4&token=1493428426&lang=zh_CN#rd)|
+|功能拆解|[[大脚]WOW BigFoot整合插件界面拆解篇](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247484832&idx=1&sn=c39198029a00167c3929ce7a4535d015&chksm=eaf13b35dd86b223c94f545d3f7c1a0f7a30d1f12dbcb42916103aa6f4d9454bf8a072ca463d&token=971037781&lang=zh_CN#rd)|
+
 
 ## 网易有爱
 
