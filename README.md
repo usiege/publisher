@@ -161,7 +161,7 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
             <td style='text-align:center;'><a href='https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247484858&idx=1&amp;sn=687ce4bad3229836360867da72ca2c2a&amp;chksm=eaf13b2fdd86b2399bca4a5a22f9fe12ffbadc97f1f30ab43b657d10a622c92be963d1a941f5&amp;token=971037781&lang=zh_CN#rd'><span>Guidelime</span></a></td>
             <td style='text-align:center;'><span>任务指引 /guidelime</span></td>
             <td style='text-align:center;'>
-            <img src="https://i.loli.net/2021/11/02/782ZMmhKuHkvlQW.png" alt="sm.ms" width="300" height="160" />
+            <img src="https://i.loli.net/2021/11/18/46oYfOVMzUtrXuC.png" alt="sm.ms" width="300" height="160" />
             <span></span>
             </td>
         </tr>
