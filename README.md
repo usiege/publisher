@@ -9,7 +9,7 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
 
 |QQ资料群|VX公众号|
 |-|-|
-|![qq](./qqg.png)|![wechat](./vx.png)|
+|![qqg.png](https://s2.loli.net/2021/12/28/c4D9Aaime2Hkwnt.png)|![vx.png](https://s2.loli.net/2021/12/28/MFNTwQjHPaKqdBD.png)|
 
 
 ## 常见问题
