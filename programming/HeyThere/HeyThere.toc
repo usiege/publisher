@@ -1,0 +1,5 @@
+## Interface: 30300
+## Title: Hey There!
+## Notes: Provides slash commands to greet other players
+
+HeyThere.lua

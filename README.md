@@ -19,7 +19,9 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
 - [关于单体插件版本的简单修改方法](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247484749&idx=1&sn=4c6ddeec2d5ddc927ca383ca6912c1b5&chksm=eaf13bd8dd86b2ce4de02e5cda65afbb8216c924516e34d166de4d3ad9ccc821d7c34a1ab8db&token=971037781&lang=zh_CN#rd)
 - [关于魔兽世界中字体的修改方法](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247484225&idx=1&sn=c070b72005c5f541f996f37a0d30c9df&chksm=eaf13dd4dd86b4c2606f9132d6238127a6201929ebd1f339f5a10ae8b8a70554df10dd0d7ed3&token=971037781&lang=zh_CN#rd)
 - [关于游戏中总是弹出报错窗口的简单处理办法](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247483982&idx=1&sn=e08d692ec06067aea94b60fee7f0cfe5&chksm=eaf13cdbdd86b5cd78cc4a5f1a390c5d666de335844766e2637d605ecfdb91551e69211fb9cf&token=971037781&lang=zh_CN#rd)
-
+- [关于不同帐号间WA字符串迁移问题的解决方案](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485654&idx=1&sn=685778d0f7e87d0b472a2bb967bee845&chksm=eaf13643dd86bf554924192f578b23325533766dd1b1b050d4cc1353d20c2816b4dbc6731846&token=438341052&lang=zh_CN#rd)
+- [还在用整合包吗？单体插件、集成插件和整合包的选择](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485478&idx=1&sn=78bb9c18bfe60d71bc239eb4a53a8142&chksm=eaf136b3dd86bfa5321cb630eae85f55665fecaf05d1429c18490fde8684bc7be0a89c39b992&token=438341052&lang=zh_CN#rd)
+- [关于WOW游戏目录以及编码插件推荐](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485408&idx=2&sn=bb00489bc68b728c5aea26f1427ae5f4&chksm=eaf13975dd86b0630c513b81f39dbfb009e9261f8d62d1ff55f0bfe27ba1dbe33cec86479184&token=438341052&lang=zh_CN#rd)
 
 ## 大脚整合插件包
 
@@ -27,6 +29,7 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
 |:-:|:-:|
 |功能拆解|[[大脚]WOW BigFoot整合插件拆解-先导篇](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247484715&idx=1&sn=aa1771def021b59fb3fe0726ec6e18a4&chksm=eaf13bbedd86b2a82e424b454d72b23e83001f1d325b03b8d15bbd421ebfefe3403c66b822e4&token=1493428426&lang=zh_CN#rd)|
 |功能拆解|[[大脚]WOW BigFoot整合插件界面拆解篇](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247484832&idx=1&sn=c39198029a00167c3929ce7a4535d015&chksm=eaf13b35dd86b223c94f545d3f7c1a0f7a30d1f12dbcb42916103aa6f4d9454bf8a072ca463d&token=971037781&lang=zh_CN#rd)|
+|插件分离|[[大脚]分离一个团队报警系统插件RaidAlerter](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247484959&amp;idx=1&amp;sn=a856fc2ec2ea328b56a907fce2a8e1e6&amp;scene=19&token=438341052&lang=zh_CN#wechat_redirect)|
 
 
 ## 网易有爱插件包
@@ -209,6 +212,27 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
     </tbody>
 </table>
 
+### P
+
+<table>
+    <tbody>
+        <tr>
+            <th style='text-align:center;'><span>插件名</span></th>
+            <th style='text-align:center;'><span>说明</span></th>
+            <th style='text-align:center;'><span>图示</span></th>
+        </tr>
+        <tr>
+            <td style='text-align:center;'><a href='https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247485460&amp;idx=1&amp;sn=b8ddfde8c5a7d820a80e0811be61f7ff&amp;chksm=eaf13681dd86bf97253642bb591c605dbd6e5dc4b0284f642b3caea9c931b1729b895c7f5ffb#rd'><span>Plater</span></a></td>
+            <td style='text-align:center;'><span>血条美化 /plater</span></td>
+            <td style='text-align:center;'>
+            <img src="https://s2.loli.net/2022/02/09/3m527unYsjIzfdB.png" alt="sm.ms" width="300" height="160" />
+            <span></span>
+        </td>
+        </tr>
+    </tbody>
+</table>
+
+
 ### R
 
 <table>
@@ -251,6 +275,29 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
 </table>
 
 
+### T
+
+
+<table>
+    <tbody>
+        <tr>
+            <th style='text-align:center;'><span>插件名</span></th>
+            <th style='text-align:center;'><span>说明</span></th>
+            <th style='text-align:center;'><span>图示</span></th>
+        </tr>
+        <tr>
+            <td style='text-align:center;'><a href='https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247485221&amp;idx=1&amp;sn=ac89342c827f54e987ee6303072adf74&amp;chksm=eaf139b0dd86b0a6f03bbceb1398da1b171ab19b5e0af79475eb8373837411f9e11a851d82c3#rd'><span>Talented</span></a></td>
+            <td style='text-align:center;'><span>天赋界面 N</span></td>
+            <td style='text-align:center;'>
+            <img src="https://s2.loli.net/2022/02/09/mFB3MwuR7O6yPTb.png" alt="sm.ms" width="300" height="160" />
+            <span></span>
+        </td>
+        </tr>
+    </tbody>
+</table>
+
+
+
 ### W
 
 <table>
@@ -280,55 +327,16 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
 
 ## WA字符串
 
-<table>
-    <thead>
-        <tr>
-            <th style='text-align:center;'><span>字符串</span></th>
-            <th style='text-align:center;'><span>功能</span></th>
-            <th style='text-align:center;'><span>图示</span></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style='text-align:center;'><a href='https://mp.weixin.qq.com/s?__biz=MzIyMDQ4NDIzNw==&amp;mid=2247484249&amp;idx=3&amp;sn=876e8701c65fec934094e1cf8211b3df&amp;chksm=97ca04bba0bd8dad030728ce7f5394de58f83577f4b6c5eaa8f7416933738b512fd1569a22b3&amp;token=1580285847&amp;lang=zh_CN#rd'><span>风暴要塞</span></a></td>
-            <td style='text-align:center;'><span>TBC P2阶段人手一份的风暴要塞提醒</span></td>
-            <td style='text-align:center;'>
-            <span>-</span>
-            </td>
-        </tr>
-        <tr>
-            <td style='text-align:center;'><a href='https://mp.weixin.qq.com/s?__biz=MzIyMDQ4NDIzNw==&amp;mid=2247484249&amp;idx=2&amp;sn=55b329809176fc82222635b53390af5f&amp;chksm=97ca04bba0bd8dadc14ddcb8f32a0e6f94213b3eeaf06f84ff0f7d497e3e99f206261906de2d&amp;token=1580285847&amp;lang=zh_CN#rd'><span>毒蛇神殿</span></a></td>
-            <td style='text-align:center;'><span>TBC P2阶段人手一份的毒蛇神殿提醒</span></td>
-            <td style='text-align:center;'>
-            <span>-</span>
-            </td>
-        </tr>
-        <tr>
-            <td style='text-align:center;'><a href='https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247484593&amp;idx=1&amp;sn=55e8191672a9deb673e9e58b911efec6&amp;chksm=eaf13a24dd86b33238e126a52a0b8c06646f2131b51d081f08bbaa692a0cc708ebbb6b7f4802&amp;token=986903697&amp;lang=zh_CN#rd'><span>Follow by</span></a></td>
-            <td style='text-align:center;'><span>TBC角色自动跟随</span></td>
-            <td style='text-align:center;'>
-            <img src="https://i.loli.net/2021/11/06/pZNFeTi2AYx948b.png" alt="sm.ms" width="300" height="160" />
-            <span></span>
-            </td>
-        </tr>
-        <tr>
-            <td style='text-align:center;'><a href='https://mp.weixin.qq.com/s?__biz=MzIyMDQ4NDIzNw==&amp;mid=2247484283&amp;idx=2&amp;sn=e293744f5f17d7f8f6ffce1b17358c4a&amp;chksm=97ca0499a0bd8d8f6d7e1d21f9276e75f1ee145deca9e8959a3682664869f5085750ed3eddca&amp;token=449085957&amp;lang=zh_CN#rd'><span>Character Stats</span></a></td>
-            <td style='text-align:center;'><span>TBC角色属性统计显示</span></td>
-            <td style='text-align:center;'>
-            <img src="https://i.loli.net/2021/11/02/EnFWzcgJ4Lv6CGV.png" alt="sm.ms" width="300" height="160" />
-            <span></span>
-            </td>
-        </tr>
-        <tr>
-            <td style='text-align:center;'><a href='https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247484696&amp;idx=2&amp;sn=d5d29a99587645aacef9e1ed9f18d3b9&amp;chksm=eaf13b8ddd86b29b2d70c7f84ec149e17d909a1775f1f62b69826a4a1350f6d16cc4e0a50a05&amp;token=371227762&amp;lang=zh_CN#rd'><span>ExpHelper</span></a></td>
-            <td style='text-align:center;'><span>TBC副本统计信息监控</span></td>
-            <td style='text-align:center;'>
-            <img src="https://i.loli.net/2021/11/02/5XdHUpBWkSJL9ux.png" alt="sm.ms" width="300" height="160" />
-            <span></span>
-            </td>
-        </tr>
-    </tbody>
-</table>
+- [海加尔山/黑暗神殿怪物自动标记](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485388&idx=2&sn=9352bdf6460266b296440f5abaa40ef6&chksm=eaf13959dd86b04f8445834e5f85ad2edf106bc916b21c73291519245ef05a8536f6d8f634d7&token=438341052&lang=zh_CN#rd)
+- [海加尔山技能监控（Boss及所有小怪）](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485388&idx=1&sn=51f8b7063fd7848bb5d24c278980ddec&chksm=eaf13959dd86b04f355fbeaa99ddd4b25531e8de0474369565caae8ccad81da72a63fa32e742&token=438341052&lang=zh_CN#rd)
+- [黑暗神殿技能监控（Boss及所有小怪）](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485371&idx=1&sn=1b1547c1b58330a3041c523a6d71fa5a&chksm=eaf1392edd86b038f6f88481f7a2e389a7b011681bbdcaad7833c570f264085ef0df61f6c585&token=438341052&lang=zh_CN#rd)
+- [TBC P2阶段人手一份的风暴要塞提醒](https://mp.weixin.qq.com/s?__biz=MzIyMDQ4NDIzNw==&mid=2247484249&idx=3&sn=876e8701c65fec934094e1cf8211b3df&chksm=97ca04bba0bd8dad030728ce7f5394de58f83577f4b6c5eaa8f7416933738b512fd1569a22b3&token=1580285847&lang=zh_CN#rd)
+- [TBC P2阶段人手一份的毒蛇神殿提醒](https://mp.weixin.qq.com/s?__biz=MzIyMDQ4NDIzNw==&mid=2247484249&idx=2&sn=55b329809176fc82222635b53390af5f&chksm=97ca04bba0bd8dadc14ddcb8f32a0e6f94213b3eeaf06f84ff0f7d497e3e99f206261906de2d&token=1580285847&lang=zh_CN#rd)
+- [TBC自动跟随follow-by已上传至wago.io](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485423&idx=1&sn=db0a7d6a215b4a1decd3c2917f139d31&chksm=eaf1397add86b06c8137ce8a55a67f4cc67dc5c8190faff413db881cbb4e8f93db9a623ebb97&token=438341052&lang=zh_CN#rd)
+- [TBC萨满图腾监视模组Totems](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247484747&amp;idx=1&amp;sn=e3036f572c0080144fd490d896518280&amp;scene=19&token=438341052&lang=zh_CN#wechat_redirect)
+- [TBC角色属性统计显示Character Stats](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247484734&amp;idx=1&amp;sn=32a88d8e74cacac2f1ac3e142fe88b1a&amp;scene=19&token=438341052&lang=zh_CN#wechat_redirect)
+- [TBC副本统计信息监控ExpHelper](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247484696&amp;idx=2&amp;sn=d5d29a99587645aacef9e1ed9f18d3b9&amp;scene=19&token=438341052&lang=zh_CN#wechat_redirect)
+- [TBC单体插件重置副本利器Boomtime](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247484696&amp;idx=1&amp;sn=8ff742d2cc26d528a140feb6d06a05f1&amp;scene=19&token=438341052&lang=zh_CN#wechat_redirect)
 
 
 ## 专业技能
