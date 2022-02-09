@@ -297,6 +297,26 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
 </table>
 
 
+### V
+
+<table>
+    <tbody>
+        <tr>
+            <th style='text-align:center;'><span>插件名</span></th>
+            <th style='text-align:center;'><span>说明</span></th>
+            <th style='text-align:center;'><span>图示</span></th>
+        </tr>
+        <tr>
+            <td style='text-align:center;'><a href='https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247485195&amp;idx=1&amp;sn=e48c6befe3f57ce43285ff97417397a6&amp;chksm=eaf1399edd86b088bcbf39fde08f4da754abaaa06ccf73649461fa24541014279c71fa8e715c#rd'><span>Vuhdo</span></a></td>
+            <td style='text-align:center;'><span>治疗插件 /vuhdo opt</span></td>
+            <td style='text-align:center;'>
+            <img src="https://s2.loli.net/2022/02/09/r3DwEB9PSjaKiWo.png" alt="sm.ms" width="300" height="160" />
+            <span></span>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 
 ### W
 
