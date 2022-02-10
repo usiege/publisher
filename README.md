@@ -47,6 +47,7 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
 
 ## DBM语音包
 
+- [DBM语音说明](https://github.com/usiege/dbm-voices)
 - [斗鱼小绵羊语音包](https://github.com/usiege/DBM-VPMianyang)
 - [斗鱼云小兔语音包](https://github.com/usiege/DBM-VPXiaotu)
 ## 单体插件
