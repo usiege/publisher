@@ -23,6 +23,20 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
 - [还在用整合包吗？单体插件、集成插件和整合包的选择](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485478&idx=1&sn=78bb9c18bfe60d71bc239eb4a53a8142&chksm=eaf136b3dd86bfa5321cb630eae85f55665fecaf05d1429c18490fde8684bc7be0a89c39b992&token=438341052&lang=zh_CN#rd)
 - [关于WOW游戏目录以及编码插件推荐](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485408&idx=2&sn=bb00489bc68b728c5aea26f1427ae5f4&chksm=eaf13975dd86b0630c513b81f39dbfb009e9261f8d62d1ff55f0bfe27ba1dbe33cec86479184&token=438341052&lang=zh_CN#rd)
 
+
+
+## 基于NDui风格（支持个性定制）
+
+公众号首发。。。
+
+## 基于ElvUI风格（支持个性定制）
+
+本系列插件包及配套使用软件同步更新中，详情请到公众号后台查看。
+
+- [ElvUI简洁风格套装更新日志（更新至2022.02.14）](https://www.zybuluo.com/usiege/note/2097478)
+
+
+
 ## 大脚整合插件包
 
 |说明|链接|
@@ -40,17 +54,14 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
 |功能拆解2|[[有爱]WOW网易有爱整合插件功能拆解(下)](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247484731&idx=1&sn=d6e5a23f9892253f81d5b23eec837f94&chksm=eaf13baedd86b2b8c27878ec4e6ee1831728fa0f47e722cf001ae644adee4aeb063df06c9556&token=1493428426&lang=zh_CN#rd)|
 
 
-## NDui整合包（支持个性定制）
-
-## ElvUI整合包（支持个性定制）
-
-
 ## DBM语音包
 
 - [DBM语音说明](https://github.com/usiege/dbm-voices)
 - [斗鱼小绵羊语音包](https://github.com/usiege/DBM-VPMianyang)
 - [斗鱼云小兔语音包](https://github.com/usiege/DBM-VPXiaotu)
-## 单体插件
+
+
+## 单体插件（索引查找）
 
 以插件名称首字母排序，持续更新中。。。
 
