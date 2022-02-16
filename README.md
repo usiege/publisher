@@ -33,7 +33,9 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
 - [ElvUI风格套装更新日志（更新至2022.02.15）](https://www.zybuluo.com/usiege/note/2097478)
 
 ### 风格套装介绍
-- [【简洁】风格套装功能]()
+
+- [【简洁】风格套装功能](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485703&idx=1&sn=62a2c1537371278d5a2ca377e0b40a79&chksm=eaf13792dd86be8448b495d4557576567621cb62d7915e4efb6bbb060564897c93b24362a423#rd)
+![](https://img.400511.net/2022/02/16/GBBWMyOt.png)
 
 
 
