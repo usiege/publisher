@@ -19,25 +19,28 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
 - [关于WOW游戏目录以及编码插件推荐](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485408&idx=2&sn=bb00489bc68b728c5aea26f1427ae5f4&chksm=eaf13975dd86b0630c513b81f39dbfb009e9261f8d62d1ff55f0bfe27ba1dbe33cec86479184&token=438341052&lang=zh_CN#rd)
 
 
-
-## 基于NDui风格（支持个性定制）
-
-公众号首发。。。
-
-## 基于ElvUI风格（支持个性定制）
+## 风格套装介绍 （支持个性定制）
 
 本系列插件包及配套使用软件同步更新中，详情请到公众号后台查看。
 
 ### 重要!!!
-- [ElvUI风格套装问题收集](https://www.zybuluo.com/usiege/note/2134330)
-- [ElvUI风格套装更新日志（更新至2022.02.15）](https://www.zybuluo.com/usiege/note/2097478)
 
-### 风格套装介绍
+- [风格套装问题收集](https://www.zybuluo.com/usiege/note/2134330)
+- [风格套装更新日志（持续更新）](https://www.zybuluo.com/usiege/note/2097478)
 
-- [【简洁】风格套装功能](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485703&idx=1&sn=62a2c1537371278d5a2ca377e0b40a79&chksm=eaf13792dd86be8448b495d4557576567621cb62d7915e4efb6bbb060564897c93b24362a423#rd)
+### 风格套装！！！
+
+- [【ElvUI-简洁】风格套装功能](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485703&idx=1&sn=62a2c1537371278d5a2ca377e0b40a79&chksm=eaf13792dd86be8448b495d4557576567621cb62d7915e4efb6bbb060564897c93b24362a423#rd)
 
 <img src="https://img.400511.net/2022/02/16/OBkajDuZ.png" alt="WX20220214-153353@2x.png" title="WX20220214-153353@2x.png" />
 
+
+## 集成插件
+
+|说明|链接|
+|:-:|:-:|
+|NDui|[[NDui]WOW最精简的集成插件包NDui（干货）](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485896&idx=1&sn=a989d69a719fd1eb16ae9386e8d7d906&chksm=eaf1375ddd86be4bd71a1d5fecb6a0961fa18cbbca3c9beceb9033fe0d193e2f5d4a771ecb7a#rd)|
+|ElvUI|[[ElvUI]集成插件ElvUI框架功能全解析（干货）](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485840&idx=1&sn=2927aea9e389edbdde5b2ad5c031ff8d&chksm=eaf13705dd86be137a6287d673863e6583f9279be0525b9528ec9c15d1ebef415287477d3c08#rd)|
 
 
 ## 大脚整合插件包
