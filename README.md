@@ -25,8 +25,9 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
 
 ### 重要!!!
 
-- [风格套装问题收集](https://www.zybuluo.com/usiege/note/2134330)
-- [风格套装更新日志（持续更新）](https://www.zybuluo.com/usiege/note/2097478)
+- [各风格套装问题收集](https://www.zybuluo.com/usiege/note/2134330)
+
+- [ElvUI风格套装更新日志（持续更新）](https://www.zybuluo.com/usiege/note/2097478)
 
 ### 风格套装！！！
 
@@ -369,6 +370,8 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
 
 
 ## WA字符串
+
+- [**【WA】TBC功能WA串更新日志（持续更新）**](https://www.zybuluo.com/usiege/note/2134348)
 
 - [海加尔山/黑暗神殿怪物自动标记](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485388&idx=2&sn=9352bdf6460266b296440f5abaa40ef6&chksm=eaf13959dd86b04f8445834e5f85ad2edf106bc916b21c73291519245ef05a8536f6d8f634d7&token=438341052&lang=zh_CN#rd)
 - [海加尔山技能监控（Boss及所有小怪）](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485388&idx=1&sn=51f8b7063fd7848bb5d24c278980ddec&chksm=eaf13959dd86b04f355fbeaa99ddd4b25531e8de0474369565caae8ccad81da72a63fa32e742&token=438341052&lang=zh_CN#rd)
