@@ -25,9 +25,9 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
 
 ### 重要!!!
 
-- [各风格套装问题收集](https://www.zybuluo.com/usiege/note/2134330)
+- [各风格套装问题收集](https://github.com/usiege/TingFeng/blob/master/Notes/suite-faq-update.md)
 
-- [ElvUI风格套装更新日志（持续更新）](https://www.zybuluo.com/usiege/note/2097478)
+- [ElvUI风格套装更新日志（持续更新）](https://github.com/usiege/TingFeng/blob/master/Notes/suite-elvui-update.md)
 
 ### 风格套装！！！
 
