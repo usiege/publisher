@@ -427,6 +427,6 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
 
 |QQ资料群|VX公众号|
 |-|-|
-|![qqg.png](https://s2.loli.net/2021/12/28/c4D9Aaime2Hkwnt.png)|![vx.png](https://s2.loli.net/2021/12/28/MFNTwQjHPaKqdBD.png)|
+|![qqg.png](https://s2.loli.net/2021/12/28/c4D9Aaime2Hkwnt.png)|![wowcube.png](https://s2.loli.net/2023/10/15/9tKxWg5YTpUhvFL.png)|
 
 
