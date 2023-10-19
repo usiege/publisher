@@ -24,6 +24,29 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
 - [龟壳插件露娜整合包拆解](https://mp.weixin.qq.com/s/Pdf1Yw4xh90p5OFk5e3hSQ)
 
 
+## 整合插件包
+
+> 集成插件包
+
+|说明|链接|
+|:-:|:-:|
+|NDui|[[NDui]WOW最精简的集成插件包NDui（干货）](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485896&idx=1&sn=a989d69a719fd1eb16ae9386e8d7d906&chksm=eaf1375ddd86be4bd71a1d5fecb6a0961fa18cbbca3c9beceb9033fe0d193e2f5d4a771ecb7a#rd)|
+|ElvUI|[[ElvUI]集成插件ElvUI框架功能全解析（干货）](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485840&idx=1&sn=2927aea9e389edbdde5b2ad5c031ff8d&chksm=eaf13705dd86be137a6287d673863e6583f9279be0525b9528ec9c15d1ebef415287477d3c08#rd)|
+|功能拆解|[[大脚]WOW BigFoot整合插件拆解-先导篇](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247484715&idx=1&sn=aa1771def021b59fb3fe0726ec6e18a4&chksm=eaf13bbedd86b2a82e424b454d72b23e83001f1d325b03b8d15bbd421ebfefe3403c66b822e4&token=1493428426&lang=zh_CN#rd)|
+|功能拆解|[[大脚]WOW BigFoot整合插件界面拆解篇](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247484832&idx=1&sn=c39198029a00167c3929ce7a4535d015&chksm=eaf13b35dd86b223c94f545d3f7c1a0f7a30d1f12dbcb42916103aa6f4d9454bf8a072ca463d&token=971037781&lang=zh_CN#rd)|
+|插件分离|[[大脚]分离一个团队报警系统插件RaidAlerter](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247484959&amp;idx=1&amp;sn=a856fc2ec2ea328b56a907fce2a8e1e6&amp;scene=19&token=438341052&lang=zh_CN#wechat_redirect)|
+|功能拆解1|[[有爱]WOW网易有爱整合插件功能拆解(上)](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247484724&idx=1&sn=26d7ac5bdc6bfcc217de0750813246f3&chksm=eaf13ba1dd86b2b7d745dbbdb39eeafe96880a8bb5a868c214d29080e14e81eeb1c48cbd3aed&token=1493428426&lang=zh_CN#rd)|
+|功能拆解2|[[有爱]WOW网易有爱整合插件功能拆解(下)](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247484731&idx=1&sn=d6e5a23f9892253f81d5b23eec837f94&chksm=eaf13baedd86b2b8c27878ec4e6ee1831728fa0f47e722cf001ae644adee4aeb063df06c9556&token=1493428426&lang=zh_CN#rd)|
+
+
+## DBM语音包
+
+|说明|链接|
+|:-:|:-:|
+|资料|[DBM语音说明](https://github.com/usiege/dbm-voices)|
+|语音包|[斗鱼小绵羊](https://github.com/usiege/DBM-VPMianyang)|
+|语音包|[斗鱼云小兔](https://github.com/usiege/DBM-VPXiaotu)|
+
 
 ## 风格套装介绍 （支持个性定制）
 
@@ -43,37 +66,6 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
 
 <!-- ; <img src="https://img.400511.net/2022/02/16/OBkajDuZ.png" alt="WX20220214-153353@2x.png" title="WX20220214-153353@2x.png" />
 : 以；和以：开头的注释，以及以 注释 -->
-
-## 集成插件包
-
-|说明|链接|
-|:-:|:-:|
-|NDui|[[NDui]WOW最精简的集成插件包NDui（干货）](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485896&idx=1&sn=a989d69a719fd1eb16ae9386e8d7d906&chksm=eaf1375ddd86be4bd71a1d5fecb6a0961fa18cbbca3c9beceb9033fe0d193e2f5d4a771ecb7a#rd)|
-|ElvUI|[[ElvUI]集成插件ElvUI框架功能全解析（干货）](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485840&idx=1&sn=2927aea9e389edbdde5b2ad5c031ff8d&chksm=eaf13705dd86be137a6287d673863e6583f9279be0525b9528ec9c15d1ebef415287477d3c08#rd)|
-
-
-## 大脚整合插件包
-
-|说明|链接|
-|:-:|:-:|
-|功能拆解|[[大脚]WOW BigFoot整合插件拆解-先导篇](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247484715&idx=1&sn=aa1771def021b59fb3fe0726ec6e18a4&chksm=eaf13bbedd86b2a82e424b454d72b23e83001f1d325b03b8d15bbd421ebfefe3403c66b822e4&token=1493428426&lang=zh_CN#rd)|
-|功能拆解|[[大脚]WOW BigFoot整合插件界面拆解篇](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247484832&idx=1&sn=c39198029a00167c3929ce7a4535d015&chksm=eaf13b35dd86b223c94f545d3f7c1a0f7a30d1f12dbcb42916103aa6f4d9454bf8a072ca463d&token=971037781&lang=zh_CN#rd)|
-|插件分离|[[大脚]分离一个团队报警系统插件RaidAlerter](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&amp;mid=2247484959&amp;idx=1&amp;sn=a856fc2ec2ea328b56a907fce2a8e1e6&amp;scene=19&token=438341052&lang=zh_CN#wechat_redirect)|
-
-
-## 网易有爱插件包
-
-|说明|链接|
-|:-:|:-:|
-|功能拆解1|[[有爱]WOW网易有爱整合插件功能拆解(上)](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247484724&idx=1&sn=26d7ac5bdc6bfcc217de0750813246f3&chksm=eaf13ba1dd86b2b7d745dbbdb39eeafe96880a8bb5a868c214d29080e14e81eeb1c48cbd3aed&token=1493428426&lang=zh_CN#rd)|
-|功能拆解2|[[有爱]WOW网易有爱整合插件功能拆解(下)](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247484731&idx=1&sn=d6e5a23f9892253f81d5b23eec837f94&chksm=eaf13baedd86b2b8c27878ec4e6ee1831728fa0f47e722cf001ae644adee4aeb063df06c9556&token=1493428426&lang=zh_CN#rd)|
-
-
-## DBM语音包
-
-- [DBM语音说明](https://github.com/usiege/dbm-voices)
-- [斗鱼小绵羊语音包](https://github.com/usiege/DBM-VPMianyang)
-- [斗鱼云小兔语音包](https://github.com/usiege/DBM-VPXiaotu)
 
 
 ## 单体插件（索引查找）
