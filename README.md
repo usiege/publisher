@@ -21,6 +21,7 @@ WOW插件内容，专业技能等详细说明外部链接，直接点击名称�
 
 ## 乌龟服（Turtle）
 
+- [龟壳插件露娜整合包拆解](https://mp.weixin.qq.com/s/Pdf1Yw4xh90p5OFk5e3hSQ)
 
 
 
